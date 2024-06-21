@@ -7,5 +7,5 @@ This repository contains a Streamlit application that allows users to upload an 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StreamlitAppTask.git
+   https://github.com/Karim-Agami/StreamLitApp.git
    cd StreamlitAppTask
